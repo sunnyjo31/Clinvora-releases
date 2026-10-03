@@ -1,6 +1,6 @@
-# HomeoClinic installers
+# Clinvora installers
 
-This repository only holds the Windows installers of **HomeoClinic**, a clinic records app for homeopathy doctors. There is no source code here.
+This repository only holds the Windows installers of **Clinvora** (called **HomeoClinic** before version 0.6), a clinic records app. There is no source code here.
 
 - Releases tagged `vX.Y.Z` are the versions clinics receive.
 - Releases tagged `test-vX.Y.Z` (pre-releases) are for testing an update before it goes to clinics.
